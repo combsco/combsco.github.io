@@ -11,19 +11,23 @@
     <link rel="stylesheet" type="text/css" href="dist/semantic.min.css">
     <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.js"></script>
     <script src="dist/semantic.min.js"></script>
+
     <body>
         <div style="padding: 1.5rem 0rem;">
             <div class="ui page centered grid">
                 <div class="row">
-                    <div class="ten wide column" style="font-size: 1.2rem;">
+                    <div class="three wide column">
+                        <div data-passname="crisopolis"></div>
+                    </div>
+                    <div class="eight wide column" style="font-size: 1.2rem;">
                         <div class="ui segment">
-                            <img class="ui centered small circular image" src="images/me.jpg">
+                            <!-- <img class="ui centered small circular image" src="images/me.jpg"> -->
                             <h3 class="ui header">Allow me to introduce my self...</h3>
                             <p>I'm <strong>Chris Combs</strong> a Web Applications Developer from St. Petersburg, Florida. I'm just out trying to make better web applications and improve on already existing ones. </p>
                             <p>I'm also attempting to build products with the community at <a href="https://assembly.com">Assembly.</a></p>
                             <p>You can e-mail me for projects or to ask how's it going at
                                 <A HREF="mailto:&#104;&#101;&#121;&#64;&#99;h&#114;&#105;&#115;c&#111;&#109;&#98;s.me"> 
-&#104;&#101;&#121;&#64;&#99;h&#114;&#105;&#115;c&#111;&#109;&#98;s.me</A>. Also there's Twitter - <a href="https://twitter.com/mrcrisopolis">@mrcrisopolis</a> </p>
+&#104;&#101;&#121;&#64;&#99;h&#114;&#105;&#115;c&#111;&#109;&#98;s.me</A>. Also there's Twitter - <a href="https://twitter.com/mrcrisopolis">@mrcrisopolis</a> and of course a <a href="http://www.rsm.io/chriscombs">résumé</a>.</p>
                             <div class="ui section divider"></div>
                             <h3 class="ui header">Current Projects</h3>
                             <div class="ui animated selection list">
@@ -48,7 +52,27 @@
             a.src = g;
             m.parentNode.insertBefore(a, m)
         })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-
+        (function(doc) {
+            var js, id = 'onenamejs',
+                ref = doc.getElementsByTagName('script')[0];
+            if (doc.getElementById(id)) {
+                return;
+            }
+            js = doc.createElement('script');
+            js.id = id;
+            js.src = 'https://s3.amazonaws.com/onename/onename-cards.js';
+            doc.head.appendChild(js);
+            var link, cssId = 'onenamecss';
+            if (doc.getElementById(cssId)) {
+                return;
+            }
+            link = document.createElement('link');
+            link.id = cssId;
+            link.rel = 'stylesheet';
+            link.type = 'text/css';
+            link.href = 'https://s3.amazonaws.com/onename/onename-cards.css';
+            doc.head.appendChild(link);
+        }(document));
         ga('create', 'UA-60629015-2', 'auto');
         ga('send', 'pageview');
         </script>
