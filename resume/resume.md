@@ -1,7 +1,7 @@
 Christopher Combs
 ============
 Email: hey@chriscombs.me
-Tel: 1-727-203-6571
+
 Web: http://www.chriscombs.me
 
 Chris Combs is a remote worker in Saint Petersburg, Florida. While working full-time at Humana, he is a part-time web developer; hacking on projects that create great user experiences with beautiful UI. His non-work interest range widely, from reading about new technology to volunteering his time to humanitiarian organizations. 
