@@ -4,7 +4,7 @@ Email: hey@chriscombs.me
 
 Web: http://www.chriscombs.me
 
-Chris Combs is a remote worker in Saint Petersburg, Florida. While working full-time at Humana, he is a part-time web developer; hacking on projects that create great user experiences with beautiful UI. His non-work interest range widely, from reading about new technology to volunteering his time to humanitiarian organizations. 
+Chris Combs is currently a remote worker in Saint Petersburg, Florida. He enjoys hacking on projects during nights and weekends that create great user experiences with beautiful UI. His non-work interest range widely, from reading about new technology to volunteering his time to humanitiarian organizations.
 
 ## SKILLS
 
@@ -13,7 +13,7 @@ Chris Combs is a remote worker in Saint Petersburg, Florida. While working full-
 
 ## EMPLOYMENT
 
-### *Technology Business Analyst*, [Humana](http://www.humana.com) (2014-11 — 2016-02)
+### *Technology Business Analyst*, [Humana](http://www.humana.com) (2014-11 — Present)
 
 Provided systems analysis and process integration for a Taleo Enterprise system for human resources. Also provided second-level support for issues arising with the Taleo platform.
   - Researched all the capabilities of our system and provided insight as to why our system was lacking stability.
@@ -38,18 +38,20 @@ Worked as a Pharmacy Technician in different aspects of the mail order pharmacy 
 
 ## PROJECTS
 
-### *Creator*, Highway - A Local Responder Dispatching System (2016-02 — 2016-02)
+### *Creator*, Highway - A Local Responder Dispatching System (??? — Present)
 
+Think cable company, repair service, or humanitiarian organization with a dispatcher and list of available people.
+This project will help dispatch a local responder to disasters or anyone you want to an event. It can provide communication between the dispatcher and responder via SMS or Mobile app. Geographical boundaries can be plotted; along with on-call scheduling to make sure the correct person is being dispatched.
 
-This project will help dispatch local responder to disasters or anything you want to call an event. It can communicate between the dispatcher and responder via SMS or Mobile app. Geographical boundaries can be plotted; along with on-call scheduling to make sure the correct responder is being dispatched.
-
-### *Creator*, [Pinellas 911 - A Public 911 CAD](http://pinellas911.co) (2016-02 — 2016-02)
+### *Creator*, [Pinellas 911 - A Public 911 CAD](http://pinellas911.co) (??? — Present)
 
 An unoffical re-design of the county goverment's own public CAD.
-his project maps and displays in real-time fire department calls. It can tell you what apparatuses are responding, enroute, onscene and if they've cleared the call. Also gives you markers of the current calls and nearest fire stations.
-  - Developed in Meteor.js
+This project maps and displays in real-time fire/ems department calls. It can tell you what apparatuses are responding, enroute, onscene and if they've cleared the call. Also gives you markers of the current calls and nearest fire stations.
+  - Developed in Meteor.js, re-designed/developed in Vue.js
 
   - Mobile first approach
+
+  - Progressive web app
 
 
 
@@ -77,11 +79,11 @@ his project maps and displays in real-time fire department calls. It can tell yo
 
 ## SERVICE
 
-### *Disaster Action Team - Area Coordinator*, [American Red Cross](http://www.redcross.org) (2015-06 — Current)
+### *Disaster Action Team - Area Coordinator*, [American Red Cross](http://www.redcross.org) (2015-06 — Present)
 
 
 
-### *General Volunteer*, [American Red Cross](http://www.redcross.org) (2014-07 — Current)
+### *General Volunteer*, [American Red Cross](http://www.redcross.org) (2014-07 — Present)
 
 
 

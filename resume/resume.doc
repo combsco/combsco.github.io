@@ -530,7 +530,7 @@
         <w:pPr>
           <w:pStyle w:val="Summary"/>
         </w:pPr>
-        <w:r><w:rPr></w:rPr><w:t>Chris Combs is a remote worker in Saint Petersburg, Florida. While working full-time at Humana, he is a part-time web developer; hacking on projects that create great user experiences with beautiful UI. His non-work interest range widely, from reading about new technology to volunteering his time to humanitiarian organizations.</w:t></w:r>
+        <w:r><w:rPr></w:rPr><w:t>Chris Combs is currently a remote worker in Saint Petersburg, Florida. He enjoys hacking on projects during nights and weekends that create great user experiences with beautiful UI. His non-work interest range widely, from reading about new technology to volunteering his time to humanitiarian organizations.</w:t></w:r>
       </w:p>
       <wx:sub-section>
   <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -682,7 +682,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>Nov 2014 — Current</w:t>
+        <w:t>Nov 2014 — Present</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -966,7 +966,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>??? — Current</w:t>
+        <w:t>??? — Present</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -975,7 +975,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>This project will help dispatch local responder to disasters or anything you want to call an event. It can communicate between the dispatcher and responder via SMS or Mobile app. Geographical boundaries can be plotted; along with on-call scheduling to make sure the correct responder is being dispatched.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>This project will help dispatch a local responder to disasters or anyone you want to an event. It can provide communication between the dispatcher and responder via SMS or Mobile app. Geographical boundaries can be plotted; along with on-call scheduling to make sure the correct person is being dispatched.</w:t></w:r>
     </w:p>
 
 
@@ -1008,7 +1008,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>??? — Current</w:t>
+        <w:t>??? — Present</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -1017,7 +1017,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>his project maps and displays in real-time fire department calls. It can tell you what apparatuses are responding, enroute, onscene and if they&apos;ve cleared the call. Also gives you markers of the current calls and nearest fire stations.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>This project maps and displays in real-time fire/ems department calls. It can tell you what apparatuses are responding, enroute, onscene and if they&apos;ve cleared the call. Also gives you markers of the current calls and nearest fire stations.</w:t></w:r>
     </w:p>
 
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
@@ -1033,7 +1033,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Developed in Meteor.js</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Developed in Meteor.js, re-designed/developed in Vue.js</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -1049,6 +1049,21 @@
         </w:rPr>
       </w:pPr>
       <w:r><w:rPr></w:rPr><w:t>Mobile first approach</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Progressive web app</w:t></w:r>
     </w:p>
 
   </wx:sub-section>
@@ -1204,7 +1219,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>Jun 2015 — Current</w:t>
+        <w:t>Jun 2015 — Present</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -1246,7 +1261,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>Jul 2014 — Current</w:t>
+        <w:t>Jul 2014 — Present</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">

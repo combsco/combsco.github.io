@@ -4,7 +4,7 @@ meta:
   version: 0.1.0
 info:
   label: Developer
-  brief: 'Chris Combs is a remote worker in Saint Petersburg, Florida. While working full-time at Humana, he is a part-time web developer; hacking on projects that create great user experiences with beautiful UI. His non-work interest range widely, from reading about new technology to volunteering his time to humanitiarian organizations. '
+  brief: 'Chris Combs is currently a remote worker in Saint Petersburg, Florida. He enjoys hacking on projects during nights and weekends that create great user experiences with beautiful UI. His non-work interest range widely, from reading about new technology to volunteering his time to humanitiarian organizations.'
   image: 'https://avatars2.githubusercontent.com/u/1550411?v=3&s=460'
 contact:
   website: 'http://www.chriscombs.me'
@@ -23,6 +23,11 @@ social:
     network: GitHub
     user: combsco
     url: 'https://github.com/combsco'
+  -
+    label: ""
+    network: GitLab
+    user: crisopolis
+    url: 'https://gitlab.com/u/crisopolis'
 employment:
   summary: ""
   history:
@@ -81,11 +86,11 @@ projects:
     title: 'Highway - A Local Responder Dispatching System'
     category: FOSS
     url: ""
-    repo: 'https://github.com/combsco/highway-api'
+    repo: 'n/a (currently private GitLab repo)'
     media: []
     role: Creator
-    summary: 'This project will help dispatch local responder to disasters or anything you want to call an event. It can communicate between the dispatcher and responder via SMS or Mobile app. Geographical boundaries can be plotted; along with on-call scheduling to make sure the correct responder is being dispatched.'
-    description: ""
+    summary: 'This project will help dispatch a local responder to disasters or anyone you want to an event. It can provide communication between the dispatcher and responder via SMS or Mobile app. Geographical boundaries can be plotted; along with on-call scheduling to make sure the correct person is being dispatched.'
+    description: 'Think cable company, repair service, or humanitiarian organization with a dispatcher and list of available people.'
     highlights: []
     keywords:
       - Nodaljs
@@ -96,16 +101,17 @@ projects:
     title: 'Pinellas 911 - A Public 911 CAD'
     category: FOSS
     url: 'http://pinellas911.co'
-    repo: 'https://github.com/combsco/Pinellas911'
+    repo: n/a
     media: []
     role: Creator
-    summary: 'his project maps and displays in real-time fire department calls. It can tell you what apparatuses are responding, enroute, onscene and if they''ve cleared the call. Also gives you markers of the current calls and nearest fire stations.'
+    summary: 'This project maps and displays in real-time fire/ems department calls. It can tell you what apparatuses are responding, enroute, onscene and if they''ve cleared the call. Also gives you markers of the current calls and nearest fire stations.'
     description: 'An unoffical re-design of the county goverment''s own public CAD.'
     highlights:
-      - 'Developed in Meteor.js'
+      - 'Developed in Meteor.js, re-designed/developed in Vue.js'
       - 'Mobile first approach'
+      - 'Progressive web app'
     keywords:
-      - Meteor.js
+      - Vue.js
       - Node.js
       - Mongo
 education:
