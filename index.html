@@ -7,74 +7,61 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     <!-- Site Properities -->
-    <title>Chris Combs - Web Applications Developer</title>
-    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.0.23/css/bulma.min.css">
+    <title>Christopher Combs - A front-end, back-end, dev-ops developer</title>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.3.1/css/bulma.min.css">
   </head>
 
   <body>
-    <div class="container" style="margin-top:15px;">
-      <div class="columns">
-        <div class="column is-3">
-          <div data-passname="crisopolis" style="margin: 0 auto;"></div>
-        </div>
-        <div class="column">
-          <div class="content notification" style="border-radius:4px; border-width:1px; border-style:solid; background: white; border-color: rgba(230,230,230,1)">
-            <h3>Allow me to introduce my self...</h3>
-            <p>I'm <strong>Chris Combs</strong> a remote Web Applications Developer living in St. Petersburg, Florida. I'm just out trying to make better web applications and improve on already existing ones.</p>
-            <p>You can e-mail me for projects or to ask how's it going at
-                <A HREF="mailto:&#104;&#101;&#121;&#64;&#99;h&#114;&#105;&#115;c&#111;&#109;&#98;s.me">
-&#104;&#101;&#121;&#64;&#99;h&#114;&#105;&#115;c&#111;&#109;&#98;s.me</A>. Also there's Twitter - <a href="https://twitter.com/mrcrisopolis">@mrcrisopolis</a> and of course a <a href="resume/resume.html">résumé</a>.</p>
-            <ul>
-              <li><a href="https://github.com/combsco">GitHub</a></li>
-              <li><a href="https://gitlab.com/crisopolis">GitLab</a></li>
-            </ul>
-            <h4>Running Projects</h4>
-            <ul>
-              <li><a href="https://pinellas911.co">Pinellas County - Public 911 Activity</a></li>
-            </ul>
-            <h4>Volunteer Work</h4>
-            <ul>
-              <li>American Red Cross - Disaster Action Team Coordinator</li>
-            </ul>
+    <div class="container">
+      <section class="section">
+        <div class="container">
+          <h1 class="title is-2">Christopher Combs</h1>
+          <h2 class="subtitle is-4">
+            Frontend, Backend, and DevOps Engineer <small> (aka Fullstack) </small>
+          </h2>
+          <h2 class="subtitle is-4">
+            <a href="mailto:hey@chriscombs.me">hey@chriscombs.me</a>
+          </h2>
+          <div class="content">
+            <p>Hi, I'm a nights and weekends (aka hobbyist/freelance) engineer living in the Tampa Bay area. I love thinking of new app ideas, web design, user interfaces and the infrastructure that will power it all. My current programming languages I dabble in is <b>JavaScript/ES6</b> (intermediate), <b>Elixir</b> (intermediate, <3 functional lang), <b>Ruby</b> (intermediate), and <b>Crystal</b> (still trying out).</p>
+            <p>If I was 100% honest; I would love to be one of the first humans colonize Mars when the opportunity presents itself. (Elon, I hope you're listening!)</p>
+
+            <a class="button is-outlined" href="http://chriscombs.me/resume/resume.html">Résumé</a>
+            <a class="button is-outlined" href="https://github.com/combsco">GitHub</a>
+            <a class="button is-outlined" href="https://twitter.com/mrcrisopolis">Twitter</a>
+            <a class="button is-outlined" href="www.linkedin.com/in/combscr">LinkedIn</a>
+            <h2 class="title is-4">Posts</h2>
+            <p>
+                <ul>
+                  <li>10/22/2015 - <a href="https://medium.com/@chriscombs/beginning-of-a-side-project-part-1-4b993a8daa9c#.npuv2w7f1">Beginning of a Side Project — Part 1</a> (details about my never finished project)</li>
+                </ul>
+            </p>
+            <h2 class="title is-4">Projects</h2>
+            <p>
+              <h2 class="subtitle is-5" style="margin-bottom: 0;"><a href="https://www.pinellas911.co">Pinellas County, FL - 911 Activity</a></h2>
+              <b>Purpose:</b> This project focuses on refreshing an old county provided user interface. Into something that works on mobile browsers and looks more modern.
+              <b>Technology:</b>
+                <ul>
+                  <li><b>MongoDB</b> - NoSQL document storage engine</li>
+                  <li><b>Elixir</b> - The main worker that pulls XML data from the county website, parses, saves to the MongoDB and then pushes it is all in Elixir.</li>
+                  <li><b>Node.js</b> - Used primarily to build the site; However, the API which gives message history to the site is a simple Express.js API. (api.pinellas911.co/v1/incidents)</li>
+                  <li><b>Vue.js; Vuex; Bulma.io; Webpack</b> - Frontend framework(s) that make frontend work possible.</li>
+                  <li><b>Pusher.com</b> - Flexible pub/sub messaging system that keeps everything in sync.</li>
+                </ul>
+            </p>
           </div>
         </div>
-      </div>
+      </section>
     </div>
-    <script>
-    (function(i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r;
-        i[r] = i[r] || function() {
-            (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date();
-        a = s.createElement(o),
-            m = s.getElementsByTagName(o)[0];
-        a.async = 1;
-        a.src = g;
-        m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-    (function(doc) {
-        var js, id = 'onenamejs',
-            ref = doc.getElementsByTagName('script')[0];
-        if (doc.getElementById(id)) {
-            return;
-        }
-        js = doc.createElement('script');
-        js.id = id;
-        js.src = 'https://s3.amazonaws.com/onename/onename-cards.js';
-        doc.head.appendChild(js);
-        var link, cssId = 'onenamecss';
-        if (doc.getElementById(cssId)) {
-            return;
-        }
-        link = document.createElement('link');
-        link.id = cssId;
-        link.rel = 'stylesheet';
-        link.type = 'text/css';
-        link.href = 'https://s3.amazonaws.com/onename/onename-cards.css';
-        doc.head.appendChild(link);
-    }(document));
-    ga('create', 'UA-60629015-2', 'auto');
+  </body>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-60629015-4', 'auto');
     ga('send', 'pageview');
-    </script>
-    </body>
-  </html>
+
+  </script>
+</html>
