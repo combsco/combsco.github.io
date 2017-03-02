@@ -33,20 +33,22 @@
             <h2 class="title is-4">Posts</h2>
             <p>
                 <ul>
-                  <li>10/22/2015 - <a href="https://medium.com/@chriscombs/beginning-of-a-side-project-part-1-4b993a8daa9c#.npuv2w7f1">Beginning of a Side Project — Part 1</a> (details about my never finished project)</li>
+                  <li>10/22/2015 - <a href="https://medium.com/@chriscombs/beginning-of-a-side-project-part-1-4b993a8daa9c#.npuv2w7f1">Beginning of a Side Project — Part 1</a> (details about my never finished project dealing with microservices)</li>
                 </ul>
             </p>
             <h2 class="title is-4">Active Projects</h2>
+            <a href="https://medium.com/@chriscombs/projects-from-my-past-94654fdd0619#.5rtvt7aeo">Why such a short list?</a>
             <p>
               <h2 class="subtitle is-5" style="margin-bottom: 0;"><a href="https://www.pinellas911.co">Pinellas County, FL - 911 Activity</a></h2>
-              <b>Purpose:</b> This project focuses on refreshing an old county provided user interface. Into something that works on mobile browsers and looks more modern.
-              <b>Technology:</b>
+              <b>Purpose:</b> This project focuses on refreshing an old county provided user interface into something that works on mobile browsers and looks more modern.<br>
+              <b>Technology (under the hood):</b>
                 <ul>
-                  <li><b>MongoDB</b> - NoSQL document storage engine</li>
-                  <li><b>Elixir</b> - The main worker that pulls XML data from the county website, parses, saves to the MongoDB and then pushes it is all in Elixir.</li>
+                  <li><b>MongoDB</b> - Of course a NoSQL document storage engine. <small>(PostgreSQL is my go-to but I was experimenting in the beginning).</small></li>
+                  <li><b>Elixir</b> - The main worker that pulls XML data from the county website, parses, saves to the MongoDB and then pushes it to Pusher/Pushover.</li>
                   <li><b>Node.js</b> - Used primarily to build the site; However, the API which gives message history to the site is a simple Express.js API. (api.pinellas911.co/v1/incidents)</li>
                   <li><b>Vue.js; Vuex; Bulma.io; Webpack</b> - Frontend framework(s) that make frontend work possible.</li>
-                  <li><b>Pusher.com</b> - Flexible pub/sub messaging system that keeps everything in sync.</li>
+                  <li><b>Pusher.com</b> - Flexible pub/sub messaging system that keeps everything in real-time sync.</li>
+                  <li><b>Pushover</b> - Alerts me of structure fires, and other high level incidents.</li>
                 </ul>
             </p>
           </div>
