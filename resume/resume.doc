@@ -582,7 +582,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>JavaScript  HTML 5  CSS 3  UI/UX  Vue.js  Node.js  React  Backbone.js  Ampersand.js  jQuery  Sass  LESS  Bootstrap  Semantic UI</w:t>
+            <w:t>JavaScript  HTML 5  CSS 3  UI/UX  Vue.js  React  Sass  LESS  Bulma.io</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -619,7 +619,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>JavaScript  Node.js  Express  Mongo  PostgreSQL  Nodaljs  Meteor.js  SQL  NoSQL  Python  Ruby  Grape  Git</w:t>
+            <w:t>JavaScript  Node.js  SQL  NoSQL  Python  Ruby  Elixir  Crystal</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -954,45 +954,6 @@
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
         <w:t>Creator, </w:t>
       </w:r>
-      
-        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-          <w:t>Highway - A Local Responder Dispatching System</w:t>
-        </w:r>
-      
-      <w:r wsp:rsidR="00EA0B64">
-        <w:tab/>
-      </w:r>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:rPr>
-          <w:rStyle w:val="FromTo"/>
-        </w:rPr>
-        <w:t>??? — Present</w:t>
-      </w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>This project will help dispatch a local responder to disasters or anyone you want to an event. It can provide communication between the dispatcher and responder via SMS or Mobile app. Geographical boundaries can be plotted; along with on-call scheduling to make sure the correct person is being dispatched.</w:t></w:r>
-    </w:p>
-
-
-  </wx:sub-section>
-
-
-  <wx:sub-section>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
-      <w:pPr>
-        <w:pStyle w:val="Heading2"/>
-        <w:tabs>
-          <w:tab w:val="right" w:pos="9360"/>
-        </w:tabs>
-      </w:pPr>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Creator, </w:t>
-      </w:r>
       <w:hlink w:dest="http://pinellas911.co">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
           <w:rPr>
@@ -1202,49 +1163,7 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Disaster Action Team - Area Coordinator, </w:t>
-      </w:r>
-      <w:hlink w:dest="http://www.redcross.org">
-        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-          <w:rPr>
-            <w:rStyle w:val="Hyperlink"/>
-          </w:rPr>
-          <w:t>American Red Cross</w:t>
-        </w:r>
-      </w:hlink>
-      <w:r wsp:rsidR="00EA0B64">
-        <w:tab/>
-      </w:r>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:rPr>
-          <w:rStyle w:val="FromTo"/>
-        </w:rPr>
-        <w:t>Jun 2015 — Present</w:t>
-      </w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      
-    </w:p>
-
-
-  </wx:sub-section>
-
-
-  <wx:sub-section>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
-      <w:pPr>
-        <w:pStyle w:val="Heading2"/>
-        <w:tabs>
-          <w:tab w:val="right" w:pos="9360"/>
-        </w:tabs>
-      </w:pPr>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>General Volunteer, </w:t>
+        <w:t>Disaster Action Team - Leader, </w:t>
       </w:r>
       <w:hlink w:dest="http://www.redcross.org">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
@@ -1280,64 +1199,7 @@
 </wx:sub-section>
 
 
-      <wx:sub-section>
-
-      <wx:pBdrGroup>
-        <wx:borders>
-          <wx:top wx:val="solid" wx:bdrwidth="15" wx:space="1" wx:color="EEEEEE"/>
-        </wx:borders>
-        <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00693C5A" wsp:rsidP="00C146CA">
-          <w:pPr>
-            <w:pStyle w:val="Heading1"/>
-            <w:ind w:left="-720"/>      
-          </w:pPr>
-          <w:r>
-            <w:pict>
-              <w:binData w:name="wordml://03000006.png" xml:space="preserve">iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAMAAADyHTlpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAI1QTFRFv8HDv8HEv8bVv8jXv8LKv8HGv8HIv8zdv8rZv8TT18bDxcHD2dLd1cbDwczd2cjDxcLKwc7fxcTDx8HDz8TDy9jszdzxy9jmy9jo2ef72+n/1eX56dLI79LG/efT/+3X//Hf///59+/w9fX7//vo/f//9///7///8////fv7//nm8+/w8/H1/fXx////vxL+UwAAAMZJREFUSMft1NkSgjAMBdCL4i7uG+4KiIr2/z/PwghtsYk8+WSez2TuJJlAVC786Z/+mp7OQUUaduHMoypUSpgWnDQtRfc9lK2dhv1LYRcsDT0MCluLGSollK1faSqlsxzm1vXpAKlcbfO+Sn7SQmZ25NNz1WRqb/S2DAl3Td9ASfr0ubDSoLzU6Rep0XRHY0YqKmVjAkYqukNzc/cYqdOWEG9rlTptJ48os3apU6ATi8OUkmV6nJHSpHROG6Wlos8kq4D+Ni/aqw5+HvnsQQAAAABJRU5ErkJggk==</w:binData>
-              <v:shape id="_x0000_i1030" type="#_x0000_t75" style="width:31.5pt;height:31.5pt">
-                <v:imagedata src="wordml://03000006.png" o:title="fa-pencil"/>
-              </v:shape>
-            </w:pict>
-          </w:r>
-          <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-            <w:t>WRITING</w:t>
-          </w:r>
-        </w:p>
-      </wx:pBdrGroup>
-
-  <wx:sub-section>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
-      <w:pPr>
-        <w:pStyle w:val="Heading2"/>
-        <w:tabs>
-          <w:tab w:val="right" w:pos="9360"/>
-        </w:tabs>
-      </w:pPr>
-      <w:hlink w:dest="https://medium.com/@chriscombs">
-        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-          <w:rPr>
-            <w:rStyle w:val="Hyperlink"/>
-          </w:rPr>
-          <w:t>Chris Combs</w:t>
-        </w:r>
-      </w:hlink>
-      <w:r wsp:rsidR="00EA0B64">
-        <w:tab/>
-      </w:r>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:rPr>
-          <w:rStyle w:val="FromTo"/>
-        </w:rPr>
-        <w:t>2015</w:t>
-      </w:r>
-    </w:p>
-
-
-  </wx:sub-section>
-
-
-</wx:sub-section>
-
+      
 
       
 

@@ -8,8 +8,8 @@ Chris Combs is currently a remote worker in Saint Petersburg, Florida. He enjoys
 
 ## SKILLS
 
-  - Frontend Development: JavaScript HTML 5 CSS 3 UI/UX Vue.js Node.js React Backbone.js Ampersand.js jQuery Sass LESS Bootstrap Semantic UI 
-  - Backend Development: JavaScript Node.js Express Mongo PostgreSQL Nodaljs Meteor.js SQL NoSQL Python Ruby Grape Git 
+  - Frontend Development: JavaScript HTML 5 CSS 3 UI/UX Vue.js React Sass LESS Bulma.io 
+  - Backend Development: JavaScript Node.js SQL NoSQL Python Ruby Elixir Crystal 
 
 ## EMPLOYMENT
 
@@ -38,11 +38,6 @@ Worked as a Pharmacy Technician in different aspects of the mail order pharmacy 
 
 ## PROJECTS
 
-### *Creator*, Highway - A Local Responder Dispatching System (??? — Present)
-
-Think cable company, repair service, or humanitiarian organization with a dispatcher and list of available people.
-This project will help dispatch a local responder to disasters or anyone you want to an event. It can provide communication between the dispatcher and responder via SMS or Mobile app. Geographical boundaries can be plotted; along with on-call scheduling to make sure the correct person is being dispatched.
-
 ### *Creator*, [Pinellas 911 - A Public 911 CAD](http://pinellas911.co) (??? — Present)
 
 An unoffical re-design of the county goverment's own public CAD.
@@ -69,21 +64,11 @@ This project maps and displays in real-time fire/ems department calls. It can te
 
 
 
-## WRITING
-
-### [Chris Combs](https://medium.com/@chriscombs) (2015-01)
-
-
-
 
 
 ## SERVICE
 
-### *Disaster Action Team - Area Coordinator*, [American Red Cross](http://www.redcross.org) (2015-06 — Present)
-
-
-
-### *General Volunteer*, [American Red Cross](http://www.redcross.org) (2014-07 — Present)
+### *Disaster Action Team - Leader*, [American Red Cross](http://www.redcross.org) (2014-07 — Present)
 
 
 

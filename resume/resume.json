@@ -1,0 +1,138 @@
+{
+  "basics": {
+    "name": "Christopher Combs",
+    "label": "Developer",
+    "summary": "Chris Combs is currently a remote worker in Saint Petersburg, Florida. He enjoys hacking on projects during nights and weekends that create great user experiences with beautiful UI. His non-work interest range widely, from reading about new technology to volunteering his time to humanitiarian organizations.",
+    "website": "http://www.chriscombs.me",
+    "phone": "",
+    "email": "hey@chriscombs.me",
+    "picture": "https://avatars2.githubusercontent.com/u/1550411?v=3&s=460",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "combsco",
+        "url": "https://github.com/combsco"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Humana",
+      "website": "http://www.humana.com",
+      "position": "Technology Business Analyst",
+      "startDate": "2014-11",
+      "summary": "Provided systems analysis and process integration for a Taleo Enterprise system for human resources. Also provided second-level support for issues arising with the Taleo platform.",
+      "highlights": [
+        "Researched all the capabilities of our system and provided insight as to why our system was lacking stability."
+      ]
+    },
+    {
+      "company": "Humana",
+      "website": "http://www.humana.com",
+      "position": "Technology Applications Engineer",
+      "startDate": "2012-12",
+      "endDate": "2014-11",
+      "summary": "Designed, developed and implemented enterprise applications using Oracle Applications Express for home and skilled care nursing operations. Also provided second-level support for issues arising from the use of these enterprise applications.",
+      "highlights": [
+        "Redesigned an in-house care management suite using a modern web framework (Bootstrap), vanilla JavaScript and agile methodologies.",
+        "Developed a better user experience to assist our customer service representatives on-board new members into our programs.",
+        "Developed a system to maintain, notify and update nursing licensure. Replacing an Excel spreadsheet system for managing licensure for up to 5,000 nurses with licenses across 50 states."
+      ]
+    },
+    {
+      "company": "Humana",
+      "website": "http://www.humana.com",
+      "position": "Pharmacy Reporting Analyst",
+      "startDate": "2011-06",
+      "endDate": "2012-12",
+      "summary": "Proactively identify, evaluate, and solve problems with rigorous logic, a systematic approach, and creative solutions.",
+      "highlights": [
+        "Developed and deployed a Microsoft Access front-end and a SQL Server back-end customer relationship manager. This tool had the ability to keep track of members, faxes, reporting, and even access pharmacy systems for a outbound member services department. This tool helped save pur department from hiring at least two extra employees."
+      ]
+    },
+    {
+      "company": "Humana",
+      "website": "http://www.humana.com",
+      "position": "Pharmacy Technician",
+      "startDate": "2008-11",
+      "endDate": "2011-06",
+      "summary": "Worked as a Pharmacy Technician in different aspects of the mail order pharmacy business. Ranging from Item Entry, Failed/Exception Claims and Member Services. All of these positions required that I maintain certification in being a Pharmacy Technician and continuing education.",
+      "highlights": [
+        "Developed a tool that was able to screen scrape the antique pharmacy system and impose as a technician to quickly move orders, items and comment on profiles. This work didn't require a technician to review and it became an automated process there after."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Cincinnati",
+      "gpa": "",
+      "courses": [],
+      "startDate": "2009-09",
+      "endDate": "2012-06"
+    },
+    {
+      "institution": "Miami University of Ohio",
+      "gpa": "",
+      "courses": [],
+      "startDate": "2006-08",
+      "endDate": "2008-07"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend Development",
+      "level": "intermediate",
+      "keywords": [
+        "JavaScript",
+        "HTML 5",
+        "CSS 3",
+        "UI/UX",
+        "Vue.js",
+        "React",
+        "Sass",
+        "LESS",
+        "Bulma.io"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "intermediate",
+      "keywords": [
+        "JavaScript",
+        "Node.js",
+        "SQL",
+        "NoSQL",
+        "Python",
+        "Ruby",
+        "Elixir",
+        "Crystal"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "flavor": "volunteer",
+      "organization": "American Red Cross",
+      "position": "Disaster Action Team - Leader",
+      "startDate": "2014-07",
+      "website": "http://www.redcross.org",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "interests": [],
+  "references": 0,
+  "languages": [
+    {
+      "language": "English",
+      "level": "native"
+    }
+  ]
+}
